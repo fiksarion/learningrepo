@@ -11,20 +11,24 @@ int main()
 	string name1 = "";
 	cin >> name1;
 	cout << name1;
+
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
 // 
 // z³ote mysli micha³a 
+// Typy danych:
 // char a 1 - 'd'
 // string asdha da2340- "riugeg"
 // bool true false
 // int -2412412 0 241512421
 // ctr+d kopiowanie linii 
+// ctrl+k+d - formatowanie kodu
 // delete usuwa w prawo 
 // \n - nowa linia ;\t - tab ;- znaki terminalne (terminator) 
-// cout << "Hello World!"<<endl; - przejdŸ do nastêpnej linii 
+// Wypisywanie na konsoli: cout << "Hello World!"<<endl; endl - przejdŸ do nastêpnej linii 
 // 
 // Tips for Getting Started: 
 //   1. Use the Solution Explorer window to add/manage files
